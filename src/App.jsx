@@ -7,18 +7,14 @@ function App() {
         </h2>
 
         <h1 className="text-3xl md:text-6xl lg:text-8xl font-black uppercase mb-8">
-          The coding club
+          Shein Gift Card
         </h1>
 
         <div className="text-lg md:text-2xl lg:text-3xl py-2 px-4 md:py-4 md:px-10 lg:py-6 lg:px-12 bg-white bg-opacity-20 w-fit mx-auto mb-8 rounded-full">
-          12,826 members
+          12,826 lucky winners!
         </div>
 
-        <form
-          action="https://www.getrevue.co/profile/mikedpsm/add_subscriber"
-          method="post"
-          target="_blank"
-        >
+  
           <div className="flex flex-col md:flex-row justify-center mb-4">
             <input
               className="text-lg md:text-2xl placeholder:text-gray-400 placeholder:italic py-4 px-6 md:px-10 lg:py-6 lg:px-12 bg-white bg-opacity-10 focus:bg-opacity-20 duration-150 rounded-full md:rounded-tr-none md:rounded-br-none mb-4 md:mb-0"
@@ -58,7 +54,7 @@ function App() {
       </main>
 
       <footer className="container mx-auto p-6 flex flex-col md:flex-row items-center justify-between">
-        <p>Built with 💖 by Maicon Douglas</p>
+        <p></p>
 
         <div className="flex -mx-6">
           <a href="#" className="mx-3 hover:opacity-80 duration-150">
